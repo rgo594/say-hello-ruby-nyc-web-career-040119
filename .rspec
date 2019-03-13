@@ -1,2 +1,2 @@
---color
---format documentation
+def say_hello()
+end
